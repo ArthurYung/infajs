@@ -28,7 +28,9 @@
     ]
   },
   "dependencies": {
-    "react": "^16.12.0 || ^17.0.0"
+    "@infajs/infajs": "workspace:^1.0.0",
+    "react": "^17.0.2",
+    "vue": "^2.6.14"
   },
   "devDependencies": {
     "@umijs/test": "^3.0.5",

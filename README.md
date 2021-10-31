@@ -2,7 +2,9 @@
 
 ## Getting Started
 
-Install dependencies,
+# Infajs
+
+新轮子 ———— canvas 动画库 😁
 
 ```bash
 $ npm i
