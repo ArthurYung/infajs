@@ -27,4 +27,5 @@ export function offReisze(canvas: HTMLCanvasElement) {
   RESIZE_CALLBACKS.delete(canvas);
 }
 
+// todo 是否考虑removeEventListener？
 window.addEventListener('reize', nativeListenerFn);
